@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Habits Tracker</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@600&family=Roboto+Mono:wght@700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <header>
+      <img src="./assets/logo.svg" alt="Logomarca do aplicativo Habits">
+      <button>
+        <img src="./assets/plus.svg" alt="ícone de adição">
+        <div>Registrar o meu dia</div>
+      </button>
+    </header>
+    <form>
+      <div class="habits">
+        <div class="habit" data-name="sleep" title="sleep">😴</div>
+        <div class="habit" data-name="study" title="study">📚</div>
+        <div class="habit" data-name="run" title="run">🏃</div>
+        <div class="habit" data-name="healthy food" title="healthy food">🥗</div>
+        <div class="habit" data-name="dogWalk" title="dogWalk">🐕‍🦺</div>
+      </div>
+      <div class="days">
+        <!-- <div class="day">
+            <div>Date</div>
+            <input type="checkbox" checked>
+            <input type="checkbox">
+            <input type="checkbox">
+        </div> -->
+      </div>
+    </form>
+    <script type="module" src="script.js"></script>
+  </body>
+</html>
