@@ -40,13 +40,12 @@ button {
     align-items: center;
     gap: 12px;
 }
-/* main*/
+
 form {
     display: flex;
     padding: 182px 48px 48px;
     width: fit-content;
 }
-
 /* habits-list */
 .habits {
     margin-top: 50px;
@@ -92,8 +91,8 @@ input {
     width: 64px;
     height: 64px;
 
-    appearance: none; /*para podermos editar a aparência de um input*/
-    -webkit-appearanse: none; /*Adcionando o Vender prefix -webkit para habilitar tal propriedade tmb p/ chorme e safari*/
+    appearance: none; 
+    -webkit-appearanse: none; 
     cursor: pointer;
 
     background-color: #18181B;
@@ -101,7 +100,7 @@ input {
     border-radius: 8px;
 }
 
-input:checked {  /*qndo estiver marcado*/
+input:checked { 
     background-color: #8B5CF6;
     border-color: #A78BFA;
 }
