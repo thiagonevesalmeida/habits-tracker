@@ -1,4 +1,3 @@
-// importing DataSetup lib
 import { HabitSetup } from './lib/habitsetup.js'
 
 const form = document.querySelector("form")
