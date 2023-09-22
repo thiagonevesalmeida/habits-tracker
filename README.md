@@ -1,13 +1,13 @@
 <h1 align="center"> Habits Tracker</h1>
 
-<p align="center">Projetando um 'Habits Tracker' interativo no desafio <strong>#nlw</strong> 🚀</p>
+<p align="center">Develop an interactive 'Habits Tracker' in the <strong>#nlw</strong> challenge 🚀</p>
 </p>
 
 <p align="center">
-    <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-    <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#-tecnologias">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#-projeto">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-    <a href="#-licença">Licença</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#-licença">License</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     <a href="#-contato">Contato</a>
 </p><br>
 
@@ -21,30 +21,30 @@
   <img alt="projeto Habits" src=".github/preview.png" width="100%">
 </p>
 
-## 🚀 Tecnologias
+## 🚀 Technologies
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+This project was developed with the following technologies:
 
 - HTML e CSS
 - JavaScript
 - Git e Github
 - Figma
 
-## 💻 Projeto
+## 💻 Project
 
-Projeto de um 'Habits Tracker' interativo e responsivo para rastrear hábitos do usuário. Desafio propostos pela RocketSeat no programa NLW-Setup 🚀.
+Develop an interactive and responsive 'Habits Tracker' to track user habits. Challenge proposed by RocketSeat in the NLW-Setup program 🚀.
 
 - [Visite o projeto online](https://thiagonevesalmeida.github.io/habits-tracker/)
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1195327109778210238). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+You can view the project layout through [DESSE LINK](https://www.figma.com/community/file/1195327109778210238). It is necessary to have an account [Figma](https://figma.com) to access it.
 
-## 📝 Licença
+## 📝 License
 
-Esse projeto está sob a licença MIT.
+This project is under the MIT license.
 
-## 📨 Contato
+## 📨 Contact
 
 thiagonevesdealmeida@gmail.com
 
