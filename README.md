@@ -34,11 +34,11 @@ This project was developed with the following technologies:
 
 Develop an interactive and responsive 'Habits Tracker' to track user habits. Challenge proposed by RocketSeat in the NLW-Setup program 🚀.
 
-- [Visite o projeto online](https://thiagonevesalmeida.github.io/habits-tracker/)
+- [Visit the project](https://thiagonevesalmeida.github.io/habits-tracker/)
 
 ## 🔖 Layout
 
-You can view the project layout through [DESSE LINK](https://www.figma.com/community/file/1195327109778210238). It is necessary to have an account [Figma](https://figma.com) to access it.
+You can view the project layout through [this LINK](https://www.figma.com/community/file/1195327109778210238). It is necessary to have an account [Figma](https://figma.com) to access it.
 
 ## 📝 License
 
